@@ -173,30 +173,104 @@ Website: [www.ackenya.org](https://www.ackenya.org)
 ### 25. Diocese of Mumias
 - **Bishop**: The Rt. Rev. Dr. Joseph Wandera Maumo
 - **Created**: January 1993
-- **Cathedral**: 
-- **Notes**: 
+- **Cathedral**: Bishop Hannington Cathedral
+- **Notes**: Seat of the Bishop of Mumias
 
 ### 26. Diocese of Nairobi
-- **Bishop**: The Rt. Rev. Jonathan Kabiru (verify latest)
-- **Notes**: Formerly the See of the Archbishop
+- **Bishop**: The Rt. Rev. Jonathan Kabiru Kariuki
+- **Created**: 1964
+- **Cathedral**: ACK St.Stephens Jogoo Road
+- **Notes**: Seat of the Bishop of Nairobi
 
 ### 27. Diocese of Nakuru
-- **Bishop**: The Rt. Rev. Joseph Muchai
+- **Bishop**: The Rt. Rev. Anthony Mambo
+- **Created**: 1960
+- **Cathedral**: ACK Good Shepherd 
+- **Notes**: Seat of the Bishop of Nakuru
 
 ### 28. Diocese of Nambale
-- **Bishop**: The Rt. Rev. Dr. Robert Magina
+- **Bishop**: The Rt. Rev. Isaiah Obuya
+- **Created**: 1987
+- **Cathedral**: ACK St. Thomas Nambale Cathedral
+- **Notes**: Seat of the Bishop of Nambale
 
 ### 29. Diocese of Nyahururu
-- **Bishop**: (Verify current bishop)
+- **Bishop**: The Rt. Rev. Maj.(RTD)Samson Mburu Gachathi
+- **Created**: 1st January 1998
+- **Cathedral**: ACK Christ the King Cathedral
+- **Notes**: Seat of the Bishop of Nyahururu
 
 ### 30. Diocese of Southern Nyanza
-- **Bishop**: (Verify current bishop)
+- **Bishop**: THe Rt. Rev. Dr. Edward Simon Onyango
+- **Created**: 1993
+- **Cathedral**: ACK Christ The Healer
+- **Notes**: Seat of the Bishop of Southern Nyanza
 
 ### 31. Diocese of Taita Taveta
-- **Bishop**: (Verify current bishop)
+- **Bishop**: The Rt. Rev. Liverson Mng'onda
+- **Created**: 1St July 1993
+- **Cathedral**: ACK St. Peter's Cathedral
+- **Notes**: Seat of the Bishop of Taita Taveta
 
 ### 32. Diocese of Thika
-- **Bishop**: (Verify current bishop)
+- **Bishop**: The Rt. Rev. Julius Njuguna Wanyoike
+- **Created**: 1st July 1998
+- **Cathedral**: ACK St.Andrew's Cathedral
+- **Notes**: Seat of the Bishop of Thika
+
+### 33. Diocese of Upper Southern Nyanza - Kisii
+- **Bishop**: The Rt. Rev. Capt. John Orina Omangi
+- **Created**: 27th August 2023
+- **Cathedral**: ACK St. Philip's Cathedral
+- **Notes**: Seat of the Bishop of Southern Nyanza - Kisii
+
+### 34. Diocese of Baringo
+- **Bishop**: The Rt. Rev. Samuel Bunyatta
+- **Created**: 5th July 2026
+- **Cathedral**: ACK St. Peter's Mogoto
+- **Notes**: Seat of the Bishop of Baringo
+
+### 35. Diocese of Garissa
+- **Bishop**: The Rt. Rev. Dr. Francis Omondi
+- **Created**: 2019
+- **Cathedral**: ACK St. Peter's Pro-Cathedral
+- **Notes**: Seat of the Bishop of Garissa
+
+### 36. Diocese of Mararal
+- **Bishop**: The Rt. Rev. David Lebarleyia
+- **Created**: 3rd October 2021
+- **Cathedral**: ACK All Saints Pro-cathedral
+- **Notes**: Seat of the Bishop of Marara
+
+### 37. Diocese of Maseno East
+- **Bishop**: The. Rt. Rev. Benard Enos Otieno Owuor
+- **Created**: 2016
+- **Cathedral**: ACK St. Peters Ahero
+- **Notes**: Seat of the Bishop of Maseno East
+
+### 38. Diocese of Kapenguria
+- **Bishop**: The Rt. Rev. Samson Tuliapus (Suffragan Bishop)
+- **Created**: 2022
+- **Cathedral**: ACK St. Andrew's Pro-cathedral
+- **Notes**: Seat of the Bishop of Kapenguria
+
+### 39. Diocese of Katakwa
+- **Bishop**: The Rt. Rev. Dr. Vitalis Job Ekuru
+- **Created**: 1st January 1991
+- **Cathedral**: ACK St. John's Cathedral
+- **Notes**: Seat of the Bishop of Katakwa
+
+### 40. Diocese of Marsabit
+- **Bishop**: The Rt. Rev. Dr. Daniel Qampicha Wario
+- **Created**: 24th July 2011
+- **Cathedral**: ACK St. Peter's Cathedral
+- **Notes**: Seat of the Bishop of Marsabit
+
+### 41. Diocese of Murang'a South
+- **Bishop**: The Rt. Rev. Julius Karanu Wa Gicheru
+- **Created**: 2014
+- **Cathedral**: ACK St. Peter's Kenol
+- **Notes**: Seat of the Bishop of Murang'a South
 
 ### Other Jurisdictions
 - **Episcopate of the Armed Forces**: Under the Archbishop

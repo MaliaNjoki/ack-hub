@@ -3,12 +3,12 @@ from google import genai
 # ======================
 # 1. Put your Gemini API key here
 # ======================
-client = genai.Client(api_key="AQ.Ab8RN6Joo4Qq2hdIg4ycSg98MmF9nmyBv06SjoNyR9_mhTJNxQ")
+client = genai.Client()
 
 # ======================
 # 2. Read your Markdown file
 # ======================
-with open("03_Structure/Dioceses_and_Bishops.md", "r", encoding="utf-8") as file:
+with open("Dioceses_and_Bishops.md", "r", encoding="utf-8") as file:
     dioceses_content = file.read()
 
 # ======================
